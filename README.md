@@ -57,7 +57,7 @@ The plugin can also be installed by downloading the zip file and copying the vim
 
 For example if I wanted a reminder to buy orange juice on the way home at 5:00 PM on February 21, 2015 I would enter the following
 
- ```vim
+ ```
 Buy orange juice  02/21/2015  17:00  
 ```
 
